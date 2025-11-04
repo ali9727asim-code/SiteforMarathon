@@ -1,0 +1,9 @@
+type: framework
+content:
+  - Embed iframes
+  - Style iframes with CSS
+  - Add distances and descriptions
+  - Content Styling
+  - Add a map
+  - Animate images
+current_task: 0

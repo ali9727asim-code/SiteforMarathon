@@ -1,0 +1,16 @@
+type: hyperskill
+title: Site for Marathon
+language: English
+summary: "<p>You were hired by an NGO to build a site for one of the marathons in\
+  \ London. There are certain requirements, the site must show the distances, weather,\
+  \ and the map of the marathon. Sounds interesting? Let's dive into it!</p><br/><br/>Learn\
+  \ more at <a href=\"https://hyperskill.org/projects/362?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/362</a>"
+programming_language: JavaScript
+content:
+  - Site for Marathon
+additional_files:
+  - name: package.json
+    visible: true
+mode: Study
+yaml_version: 5

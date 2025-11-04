@@ -1,0 +1,102 @@
+hyperskill_project:
+  id: 362
+  ide_files: https://hyperskill.org/api/projects/362/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2144
+    step: 30137
+    is_completed: false
+  - id: 2145
+    step: 30138
+    is_completed: false
+  - id: 2146
+    step: 30139
+    is_completed: false
+  - id: 2147
+    step: 30140
+    is_completed: false
+  - id: 2148
+    step: 30141
+    is_completed: false
+  - id: 2149
+    step: 30142
+    is_completed: false
+topics:
+  0:
+    - title: World Wide Web
+      theory_id: 6633
+    - title: Iframe and frameset
+      theory_id: 16160
+    - title: HTML basics
+      theory_id: 47192
+    - title: Tags and attributes
+      theory_id: 7536
+    - title: HTML page structure
+      theory_id: 6491
+  1:
+    - title: Block-level elements
+      theory_id: 7271
+    - title: Inline elements
+      theory_id: 7518
+    - title: What is CSS
+      theory_id: 7678
+    - title: HTML attributes id and class
+      theory_id: 7527
+    - title: Connecting CSS to HTML
+      theory_id: 7418
+    - title: Basic CSS syntax
+      theory_id: 7722
+    - title: CSS Selectors
+      theory_id: 7738
+    - title: Relative units
+      theory_id: 10671
+    - title: Absolute units
+      theory_id: 10605
+    - title: Comments in HTML
+      theory_id: 7502
+    - title: Position
+      theory_id: 11581
+    - title: Margin and Padding
+      theory_id: 26903
+    - title: Width and Height
+      theory_id: 8325
+    - title: Overflow
+      theory_id: 12454
+  2:
+    - title: Images
+      theory_id: 9237
+    - title: Intro to Lists
+      theory_id: 8178
+    - title: "Headings, Paragraphs, Comments"
+      theory_id: 21203
+    - title: Unordered list and types
+      theory_id: 21181
+  3:
+    - title: Introduction to UI/UX
+      theory_id: 14603
+    - title: Layout grids
+      theory_id: 14922
+    - title: Interface elements
+      theory_id: 15253
+    - title: Colors
+      theory_id: 14914
+    - title: Intro to HTML forms
+      theory_id: 6560
+    - title: Comments in CSS
+      theory_id: 7730
+    - title: Pseudo-classes
+      theory_id: 9762
+    - title: Buttons
+      theory_id: 28053
+    - title: Border
+      theory_id: 8355
+    - title: RGB
+      theory_id: 8819
+    - title: Text Alignment
+      theory_id: 11589
+    - title: Colors in CSS
+      theory_id: 7973
+    - title: Background
+      theory_id: 11670
