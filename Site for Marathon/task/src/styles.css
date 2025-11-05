@@ -8,12 +8,10 @@ html, body {
 * {
     box-sizing: inherit;
 }
-
 .iframe-container {
     width: 100vw;
 
 }
-
 .iframe-container.youtube {
     height: 80vh;
 }
